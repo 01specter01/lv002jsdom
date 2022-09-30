@@ -1,4 +1,14 @@
 body {
     background-color: darkgray;
     color: rgb(18, 13, 13);
+
+    .book {
+        .book {
+            background-color: #222;
+            margin-bottom: 1rem;
+            .title {
+                color: yellow;
+            }
+        }
+    }
 }
